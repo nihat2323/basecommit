@@ -20,4 +20,4 @@ Base is fast, low-cost, and built for the next generation of on-chain apps. I'm 
 
 ---
 
-💡 This repository is part of my Web3 journey. Stay tuned!
+💡 This repository is part of my Web3 journey. Stay tuned!.
